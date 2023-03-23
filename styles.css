@@ -20,12 +20,12 @@ body {
 .card-container .qr-container {
     background-color: #2F7DFA;
     border-radius: 20px;
-    padding: 10%;
+    padding: 15%;
 
 }
 
 .card-container h1 {
-    font-size: 27px;
+    font-size: 1.9vw;
     color: #242f3d;
     font-family: 'Rubik', sans-serif;
     font-weight: bold;
@@ -33,7 +33,7 @@ body {
 
 .card-container p {
     color: gray;
-    font-size: 20px;
+    font-size: 1.4vw;
     font-family: 'Rubik', sans-serif;
 }
 
